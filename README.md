@@ -1,53 +1,56 @@
-# Jyoti-DevOps
 
-Hi, I'm a DevOps Engineer 👋
+<h1 align="center">Hi 👋, I'm Jyoti Singh</h1>
+<h3 align="center">DevOps / SRE Engineer | India</h3>
 
-I work on cloud infrastructure, application support, automation, and production reliability.
+<p align="center">
+  AWS • Terraform • Ansible • Docker • Kubernetes • Jenkins • Linux
+</p>
 
-🛠️ Technical Skills
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jyotisingh10061999&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+</p>
 
-Cloud: AWS, Azure
+---
 
-Infrastructure as Code: Terraform
+## 👩‍💻 About Me
 
-Configuration Management: Ansible
+🚀 Passionate about building reliable, scalable, and secure cloud infrastructure.
 
-Containers: Docker, Kubernetes
+☁️ Exploring AWS cloud technologies to design and manage efficient infrastructure solutions.
 
-CI/CD: Jenkins, GitHub Actions
+⚙️ Automating infrastructure provisioning and server management using Terraform and Ansible.
 
-Operating Systems: Linux, Windows
+🐳 Exploring containerization and orchestration with Docker and Kubernetes.
 
-Monitoring: Grafana, Prometheus, CloudWatch
+🔄 Interested in building robust CI/CD pipelines to enable faster, safer, and more reliable deployments.
 
-Version Control: Git, GitHub
+📊 Focused on monitoring, observability, troubleshooting, and improving application reliability using tools like Grafana, Prometheus, and AWS CloudWatch.
 
-Database: MySQL, SQL Server Workbench, MariaDb
+🛡️ Enthusiastic about Site Reliability Engineering (SRE), incident management, high availability, and performance optimization.
 
-🚀 Featured Projects
+💡 Believe in automation over repetition, continuous learning, and solving real-world infrastructure challenges.
 
-AWS Infrastructure Automation using Terraform
+## 🛠️ Languages and Tools
 
-Server Administration and Automation using Ansible
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,terraform,docker,kubernetes,ansible,jenkins,git,github,grafana,prometheus" alt="DevOps tools" />
+</p>
 
-Kubernetes Application Deployment
+## 🚀 Featured Projects
 
-CI/CD Pipeline Automation
+- AWS Infrastructure Automation using Terraform
+- EC2 Start/Stop Automation using AWS Lambda
+- Server Automation using Ansible
+- Kubernetes Deployment and Services
+- CI/CD Automation using Jenkins
 
-Monitoring and Observability with Prometheus and Grafana
+## 📊 GitHub Stats
 
-📚 Currently Learning
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotisingh10061999&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
-Advanced Ansible
+## 🤝 Connect with Me
 
-Kubernetes and EKS
-
-Infrastructure Automation
-
-Site Reliability Engineering
-
-🤝 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/jyoti-s-18a0151a1?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-
-GitHub: https://github.com/jyotisingh10061999
+- GitHub: https://github.com/jyotisingh10061999
+- LinkedIn:https://www.linkedin.com/in/jyoti-s-18a0151a1?utm_source=share_via&utm_content=profile&utm_medium=member_ios
